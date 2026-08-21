@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arya Mahesh Bhor
+# Hi, I'm Arya Mahesh Bhor
 
 ### Data Analyst • Business Intelligence • AI/ML • Data & AI Engineering
 

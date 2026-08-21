@@ -142,7 +142,6 @@ Interactive sales intelligence dashboard covering revenue, profit, products, cus
 * 🎓 Google Data Analytics Professional Certificate
 * 🧠 IBM Cognitive Class — Data Analysis Using Python
 * 🗄️ Advanced SQL Certification
-* 💻 HackerRank SQL Certification
 
 ---
 
